@@ -1,0 +1,1 @@
+Dom kultury zwiêksza zadowoleniue twoich ludzi. Dostarcza im rozrywki.

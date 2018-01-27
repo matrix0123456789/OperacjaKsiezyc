@@ -1,0 +1,1 @@
+ <a href="http://translate.google.com/translate?u=operacja-ksiezyc.yoyo.pl&hl=pl&ie=UTF-8&sl=auto&tl=en">Angielski</a><br>

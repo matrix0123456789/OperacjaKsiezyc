@@ -1,0 +1,1 @@
+<form action="?id=nowy2-news" method="POST">Tytó³<input name="title" size="50"><br>Tresc<textarea name="tresc" rows="25" cols="60"></textarea><br><input type="submit" value="Dodaj"></form>

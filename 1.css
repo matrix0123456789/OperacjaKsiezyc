@@ -1,0 +1,115 @@
+header, aside, section
+{
+display:block;
+}
+div.menu
+{
+	width: 220px;
+	float: left;
+	overflow: hidden;
+	position: relative;
+	margin:0 5px 5px 0;
+	resize:horizontal;
+}
+div.gl
+{
+	margin-left: 220px;
+}
+div.stopka
+{
+  	clear: both;
+}
+table
+{
+	border-spacing: 0;
+	border-style: solid;
+	border-width: 2px;
+}
+td
+{
+	border-spacing: 0;
+	border: 1px inset;
+}
+table.r
+{
+	border-spacing: 0;
+	border-style: solid;
+	border-width: 0;
+}
+td.ru
+{
+	border-style: solid;
+	border-width: 0;
+	border-spacing: 0;
+	padding: 0;
+}
+
+table.gracz, table.gracz  td
+{
+	border-spacing: 0;
+	border-style: solid;
+	border-width: 1px;
+	vertical-align: top;
+}
+body
+{
+	background-color: #000;
+	background-attachment: fixed;
+	background-position: center;
+	Margin: 0;
+}
+td.monk
+{
+width: 100px;
+}
+a:link 
+{
+color:  #0000FF;
+text-decoration: none;
+}
+a:visited
+{
+color:  #0000FF;
+text-decoration: none;
+}
+a:hover
+{
+color:  #0000FF;
+text-decoration: underline;
+}
+img
+{
+border: 0;
+}
+input.hid3
+{
+display: none;
+}
+.zawiad
+{
+border: solid 2px #060;
+background: #1a1;
+}
+.podprzerwa
+{
+margin-bottom:1em;
+}
+ul ul
+{
+    margin-left:10px;
+}
+.pasekpost, .pasekpost span
+{
+	display:block;
+	border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+}
+.pasekpost
+{
+	background:#888888;
+}
+.pasekpost span
+{
+	background:#88ff88;
+}

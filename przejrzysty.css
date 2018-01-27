@@ -1,0 +1,130 @@
+html, body
+{
+	background: white;
+	font-family: arial;
+	font-size: 12px;
+	margin: 0; Padding: 0;
+}
+header section
+{
+	background: transparent;
+	color: white;
+	display: block;
+}
+header
+{
+	background-color: #00dd00;
+	background-image:url(poz.png);
+	background-image:-moz-linear-gradient(bottom, #118011 0px,#089008 14px, #05b505 16px, #00dd00 100%);
+	display: block;
+}
+header h1
+{
+	margin: 0;
+}
+td
+{
+	border: 1px inset;
+}
+aside
+{
+	float: left;
+	overflow:hidden;
+	position:relative;
+	width: 200px;
+	margin-bottom: 5px;
+	background-color: #ddffdd;
+	background:url(poz.png) repeat-x 0 -45;
+	background:-moz-linear-gradient(top, #99ff99, #ddffdd);
+	resize: horyzontal;
+	padding-left: 4px;
+	margin-right: 6px;
+	box-shadow: 0 12px 10px -9px black inset, 0 0 7px 1px black;
+	-moz-box-shadow: 0 12px 10px -9px black inset, 0 0 7px 1px black;
+	-webkit-box-shadow: 0 12px 10px -9px black inset, 0 0 7px 1px black;
+	-o-box-shadow: 0 12px 10px -9px black inset, 0 0 7px 1px black;
+	border-radius-bottomright: 10px;
+	-o-border-radius-bottomright: 10px;
+	-webkit-border-radius-bottomright: 10px;
+	-moz-border-radius-bottomright: 10px;
+}
+#reklamy *
+{
+	display: block;
+}
+nav ul
+{
+
+	padding: 0;
+	MARGIN: 0;
+}
+nav ul li
+{
+	list-style: none;
+}
+nav ul li a
+{
+	display: block;
+}
+nav ul li a:hover
+{
+	background: #55dd00;
+	border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+}
+ul ul
+{
+	margin-left: 20px;
+}
+ul hr
+{
+	border:none;
+	margin:.5em;
+}
+a
+{
+color: blue;
+text-decoration: none;
+}
+a:hover
+{
+text-decoration: underline;
+text-shadow: 0 0 35% rgba(255, 255, 255, 0.4);
+}
+a img
+{
+	border: 0;
+}
+a:hover img
+{
+	box-shadow: 5% 5% 4px -2px white;
+	-moz-box-shadow: 5% 5% 4px -2px white;
+	-o-box-shadow: 5% 5% 4px -2px white;
+	-webkit-box-shadow: 5% 5% 4px -2px white;
+}
+#tresc
+{
+	box-shadow:0 12px 10px -9px black inset;
+	-webkit-box-shadow:0 12px 10px -9px black inset;
+	-moz-box-shadow:0 12px 10px -9px black inset;
+	-o-box-shadow:0 12px 10px -9px black inset;
+	display: block;
+	background:url(poz.png) repeat-x 0 -45;
+	padding-top:10px;
+}
+.pasekpost, .pasekpost span
+{
+	display:block;
+	border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+}
+.pasekpost
+{
+	background:#888888;
+}
+.pasekpost span
+{
+	background:#88ff88;
+}
